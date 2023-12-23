@@ -1,0 +1,28 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "text": "snooker day",
+      "day": "wednesday",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "jumma pray",
+      "day": "friday",
+      "reminder": true
+    },
+    {
+      "text": "ping pong",
+      "day": "march 3",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "new task",
+      "day": "sunday 9",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
